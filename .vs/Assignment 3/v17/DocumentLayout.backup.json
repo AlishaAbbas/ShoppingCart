@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GH\\source\\repos\\Assignment 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46EAD238-91B8-4E49-951E-4F2107492980}|Assignment 3\\Assignment 3.csproj|c:\\users\\gh\\source\\repos\\assignment 3\\assignment 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EAD238-91B8-4E49-951E-4F2107492980}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EAD238-91B8-4E49-951E-4F2107492980}|Assignment 3\\Assignment 3.csproj|c:\\users\\gh\\source\\repos\\assignment 3\\assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EAD238-91B8-4E49-951E-4F2107492980}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA0AC0-9DDF-4866-9F41-7D9927B476EF}|DAL\\DAL.csproj|c:\\users\\gh\\source\\repos\\assignment 3\\dal\\managerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCA0AC0-9DDF-4866-9F41-7D9927B476EF}|DAL\\DAL.csproj|solutionrelative:dal\\managerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D9BE9E-E843-46FC-9D10-DE680E5CAB5A}|BLL\\BLL.csproj|c:\\users\\gh\\source\\repos\\assignment 3\\bll\\managerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D9BE9E-E843-46FC-9D10-DE680E5CAB5A}|BLL\\BLL.csproj|solutionrelative:bll\\managerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCA0AC0-9DDF-4866-9F41-7D9927B476EF}|DAL\\DAL.csproj|c:\\users\\gh\\source\\repos\\assignment 3\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8DCA0AC0-9DDF-4866-9F41-7D9927B476EF}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EAD238-91B8-4E49-951E-4F2107492980}|Assignment 3\\Assignment 3.csproj|c:\\users\\gh\\source\\repos\\assignment 3\\assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46EAD238-91B8-4E49-951E-4F2107492980}|Assignment 3\\Assignment 3.csproj|solutionrelative:assignment 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GH\\source\\repos\\Assignment 3\\Assignment 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\GH\\source\\repos\\Assignment 3\\Assignment 3\\Form1.cs",
+              "RelativeToolTip": "Assignment 3\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:46:23.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\GH\\source\\repos\\Assignment 3\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "C:\\Users\\GH\\source\\repos\\Assignment 3\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-18T10:34:01.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GH\\source\\repos\\Assignment 3\\Assignment 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment 3\\Form1.cs",
+              "ToolTip": "C:\\Users\\GH\\source\\repos\\Assignment 3\\Assignment 3\\Form1.cs [Design]",
+              "RelativeToolTip": "Assignment 3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:29:38.982Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerDAL.cs",
+              "DocumentMoniker": "C:\\Users\\GH\\source\\repos\\Assignment 3\\DAL\\ManagerDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ManagerDAL.cs",
+              "ToolTip": "C:\\Users\\GH\\source\\repos\\Assignment 3\\DAL\\ManagerDAL.cs",
+              "RelativeToolTip": "DAL\\ManagerDAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA2wBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:31:09.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerBLL.cs",
+              "DocumentMoniker": "C:\\Users\\GH\\source\\repos\\Assignment 3\\BLL\\ManagerBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\ManagerBLL.cs",
+              "ToolTip": "C:\\Users\\GH\\source\\repos\\Assignment 3\\BLL\\ManagerBLL.cs",
+              "RelativeToolTip": "BLL\\ManagerBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:30:19.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GH\\source\\repos\\Assignment 3\\Assignment 3\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment 3\\Program.cs",
+              "ToolTip": "C:\\Users\\GH\\source\\repos\\Assignment 3\\Assignment 3\\Program.cs",
+              "RelativeToolTip": "Assignment 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:55:02.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

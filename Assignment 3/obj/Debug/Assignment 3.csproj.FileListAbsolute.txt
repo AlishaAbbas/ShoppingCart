@@ -1,0 +1,16 @@
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\bin\Debug\Assignment 3.exe.config
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\bin\Debug\Assignment 3.exe
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\bin\Debug\Assignment 3.pdb
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\bin\Debug\BLL.dll
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\bin\Debug\DAL.dll
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\bin\Debug\BLL.pdb
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\bin\Debug\DAL.pdb
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\bin\Debug\DAL.dll.config
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.AssemblyReference.cache
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment3.Form1.resources
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment_3.Properties.Resources.resources
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.GenerateResource.cache
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignme.B01EBD87.Up2Date
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.exe
+C:\Users\GH\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.pdb
